@@ -9,13 +9,13 @@ you should create a react app project then copy and paste the extracted files in
 
 ### Libraries
 To developp the web app, it requieres to install the following libraries in the terminal :
-''' npm install mathjs
-''' npm install chartjs
-''' npm install react-minimal-pie-chart
-''' npm install react-router-dom
-''' npm install react-chart-histogram (but not used)
-''' npm install chartjs-plugin-zoom
-''' npm install react-chartjs-2
+``` npm install mathjs
+``` npm install chartjs
+``` npm install react-minimal-pie-chart
+``` npm install react-router-dom
+``` npm install react-chart-histogram (but not used)
+``` npm install chartjs-plugin-zoom
+``` npm install react-chartjs-2
 
 
 ### Code
