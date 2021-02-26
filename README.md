@@ -25,6 +25,6 @@ The main pages are Home, Courbi, Donut and Score. The others are components (as 
 
 ### Host your code online
 To post your code online after modification:
-In the terminal run : ``` npm run build
+In the terminal run : ``` npm run build ```
 
 Find a place to host it then Copy and paste the files from the build folder on the host repository.
