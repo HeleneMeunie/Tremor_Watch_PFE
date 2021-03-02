@@ -29,7 +29,7 @@ Make sure to allow the execution of these files using the command ```chmod a+x <
 If certain imports do not work, make sure to install the right packages using: ```sudo pip3 install <my_package>```, ex: ```sudo pip3 install scipy```.
 And if the previous pip3 command is not found: ```sudo apt-get update``` followed by ```sudo apt-get install python3-pip```.
 
-Paths for file access and data storing at the beginning of both "data_computing.py"and "linkwatch.py" should be modified as wished.
+Paths for file access and data storing at the beginning of both "data_computing.py" and "linkwatch.py" should be modified as wished.
 
 #### Rules
 
