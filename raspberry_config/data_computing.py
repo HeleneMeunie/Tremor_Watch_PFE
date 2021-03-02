@@ -19,7 +19,7 @@ final_filename = directory / 'data_patient.txt'
 # Variables regarding automatic transfer of data from raspberry to USB
 transfer_filename = Path("data_patient.txt")
 src_transfer_dir = Path("/home/pi/Documents/data")
-dest_transfer = Path("/media/pi/Disk")
+dst_transfer = Path("/media/pi/Disk")
 
 # Variables needed for data upload to Open Humans
 pathfile_upload_code = "/home/pi/Documents/code/upload_OpenH.sh"

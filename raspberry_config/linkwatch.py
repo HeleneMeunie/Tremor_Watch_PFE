@@ -6,7 +6,7 @@ import serial,time
 
 
 # Variables regarding link to Tremor Watch + file saving
-dev_name = "/dev/ttyACM0"
+port_name = "/dev/ttyACM0"
 port_nb = 115200
 save_filename = "/home/pi/Documents/data/raw_data.txt"
 

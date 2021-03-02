@@ -1,0 +1,2 @@
+KERNEL=="ttyACM0", ACTION=="add", SUBSYSTEMS=="usb", OWNER="pi", GROUP="pi", RUN+="/home/pi/Documents/code/linkwatch.py"
+KERNEL=="ttyACM0", ACTION=="remove", SUBSYSTEMS=="usb", RUN+="/bin/systemctl start upload.service"
